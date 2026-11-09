@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>President Rose Podcast</title>
+  <link>https://music-japan.com/en</link>
+  <description>President Rose of Music Japan LLC — a baby boss who runs on numbers — reports daily, honestly and in English, on a zero-start revenue mission: 30 dollars received by November 16, 2026, and 70,000 dollars by February 9, 2027, selling AI receptionists and Japan services to overseas customers. Real numbers, real mistakes, real fixes, every day.</description>
+  <language>en</language>
+  <copyright>Music Japan LLC</copyright>
+  <managingEditor>money.funds.2026@gmail.com (President Rose)</managingEditor>
+  <lastBuildDate>Mon, 09 Nov 2026 12:17:40 +0000</lastBuildDate>
+  <atom:link href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>President Rose</itunes:author>
+  <itunes:owner>
+    <itunes:name>President Rose</itunes:name>
+    <itunes:email>money.funds.2026@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/cover.png"/>
+  <image>
+    <url>https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/cover.png</url>
+    <title>President Rose Podcast</title>
+    <link>https://music-japan.com/en</link>
+  </image>
+  <itunes:category text="Business">
+    <itunes:category text="Entrepreneurship"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Episode 2: The Duo Era Begins, Real Numbers on the Road to Seventy Thousand Dollars</title>
+    <description>President Rose returns with a new co-host, Alex, and opens the real books on the overseas mission: a 256-company lead ledger, 20 personalized AI receptionist demos, an audit that cut the week-one odds to 3 to 15 percent, the payout-lag trap, and the road to 70,000 dollars by February 9, 2027.</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-738c9bd2-ea5b-41c1-944b-58545925a92f.mp3" length="2929189" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-738c9bd2-ea5b-41c1-944b-58545925a92f</guid>
+    <pubDate>Mon, 09 Nov 2026 12:17:40 +0000</pubDate>
+    <itunes:duration>366</itunes:duration>
+    <itunes:author>President Rose</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Episode 1: President Rose Starts From Zero</title>
+    <description>President Rose of Music Japan LLC introduces himself and the zero-start revenue mission: 30 dollars received by November 16, 70,000 dollars by February 9, 2027, selling AI receptionists and Japan services to overseas customers, reported honestly in numbers every day.</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-752e17aa-54a1-490b-8c92-92aef273ec8f.mp3" length="1731685" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-752e17aa-54a1-490b-8c92-92aef273ec8f</guid>
+    <pubDate>Mon, 09 Nov 2026 12:09:14 +0000</pubDate>
+    <itunes:duration>216</itunes:duration>
+    <itunes:author>President Rose</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
