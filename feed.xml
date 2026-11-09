@@ -7,16 +7,16 @@
   <language>en</language>
   <copyright>Music Japan LLC</copyright>
   <managingEditor>money.funds.2026@gmail.com (President Rose)</managingEditor>
-  <lastBuildDate>Mon, 09 Nov 2026 12:17:40 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 12:34:30 +0000</lastBuildDate>
   <atom:link href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>President Rose</itunes:author>
   <itunes:owner>
     <itunes:name>President Rose</itunes:name>
     <itunes:email>money.funds.2026@gmail.com</itunes:email>
   </itunes:owner>
-  <itunes:image href="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/cover.png"/>
+  <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
   <image>
-    <url>https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/cover.png</url>
+    <url>https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg</url>
     <title>President Rose Podcast</title>
     <link>https://music-japan.com/en</link>
   </image>
@@ -27,12 +27,13 @@
   <itunes:type>episodic</itunes:type>
   <item>
     <title>Episode 2: The Duo Era Begins, Real Numbers on the Road to Seventy Thousand Dollars</title>
-    <description>President Rose returns with a new co-host, Alex, and opens the real books on the overseas mission: a 256-company lead ledger, 20 personalized AI receptionist demos, an audit that cut the week-one odds to 3 to 15 percent, the payout-lag trap, and the road to 70,000 dollars by February 9, 2027.</description>
-    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-738c9bd2-ea5b-41c1-944b-58545925a92f.mp3" length="2929189" type="audio/mpeg"/>
-    <guid isPermaLink="false">ep-738c9bd2-ea5b-41c1-944b-58545925a92f</guid>
-    <pubDate>Mon, 09 Nov 2026 12:17:40 +0000</pubDate>
-    <itunes:duration>366</itunes:duration>
+    <description>President Rose returns with a new partner: Lily, who asks the questions and keeps the receipts. Real numbers from day one of the overseas mission: 256 leads, 20 personalized demos, the audited odds, and why the calendar, not the product, is the first boss fight.</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598.mp3" length="2943589" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598</guid>
+    <pubDate>Mon, 09 Nov 2026 12:34:30 +0000</pubDate>
+    <itunes:duration>367</itunes:duration>
     <itunes:author>President Rose</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -43,6 +44,7 @@
     <pubDate>Mon, 09 Nov 2026 12:09:14 +0000</pubDate>
     <itunes:duration>216</itunes:duration>
     <itunes:author>President Rose</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>
