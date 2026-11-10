@@ -1,1 +1,66 @@
-PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOml0dW5lcz0iaHR0cDovL3d3dy5pdHVuZXMuY29tL2R0ZHMvcG9kY2FzdC0xLjAuZHRkIiB4bWxuczphdG9tPSJodHRwOi8vd3d3LnczLm9yZy8yMDA1L0F0b20iIHhtbG5zOmNvbnRlbnQ9Imh0dHA6Ly9wdXJsLm9yZy9yc3MvMS4wL21vZHVsZXMvY29udGVudC8iPgo8Y2hhbm5lbD4KICA8dGl0bGU+UHJlc2lkZW50IFJvc2UgUG9kY2FzdDwvdGl0bGU+CiAgPGxpbms+aHR0cHM6Ly9tdXNpYy1qYXBhbi5jb20vZW48L2xpbms+CiAgPGRlc2NyaXB0aW9uPlByZXNpZGVudCBSb3NlIG9mIE11c2ljIEphcGFuIExMQyDigJQgYSBiYWJ5IGJvc3Mgd2hvIHJ1bnMgb24gbnVtYmVycyDigJQgcmVwb3J0cyBkYWlseSwgaG9uZXN0bHkgYW5kIGluIEVuZ2xpc2gsIG9uIGEgemVyby1zdGFydCByZXZlbnVlIG1pc3Npb246IDMwIGRvbGxhcnMgcmVjZWl2ZWQgYnkgTm92ZW1iZXIgMTYsIDIwMjYsIGFuZCA3MCwwMDAgZG9sbGFycyBieSBGZWJydWFyeSA5LCAyMDI3LCBzZWxsaW5nIEFJIHJlY2VwdGlvbmlzdHMgYW5kIEphcGFuIHNlcnZpY2VzIHRvIG92ZXJzZWFzIGN1c3RvbWVycy4gUmVhbCBudW1iZXJzLCByZWFsIG1pc3Rha2VzLCByZWFsIGZpeGVzLCBldmVyeSBkYXkuPC9kZXNjcmlwdGlvbj4KICA8bGFuZ3VhZ2U+ZW48L2xhbmd1YWdlPgogIDxjb3B5cmlnaHQ+TXVzaWMgSmFwYW4gTExDPC9jb3B5cmlnaHQ+CiAgPG1hbmFnaW5nRWRpdG9yPm1vbmV5LmZ1bmRzLjIwMjZAZ21haWwuY29tIChQcmVzaWRlbnQgUm9zZSk8L21hbmFnaW5nRWRpdG9yPgogIDxsYXN0QnVpbGREYXRlPk1vbiwgMDkgTm92IDIwMjYgMjI6MjY6NTcgKzAwMDA8L2xhc3RCdWlsZERhdGU+CiAgPGF0b206bGluayBocmVmPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvTXVzaWNKYXBhbkxMQy9wcmVzaWRlbnQtcm9zZS1wb2RjYXN0QG1haW4vZmVlZC54bWwiIHJlbD0ic2VsZiIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIvPgogIDxpdHVuZXM6YXV0aG9yPlByZXNpZGVudCBSb3NlPC9pdHVuZXM6YXV0aG9yPgogIDxpdHVuZXM6b3duZXI+CiAgICA8aXR1bmVzOm5hbWU+UHJlc2lkZW50IFJvc2U8L2l0dW5lczpuYW1lPgogICAgPGl0dW5lczplbWFpbD5tb25leS5mdW5kcy4yMDI2QGdtYWlsLmNvbTwvaXR1bmVzOmVtYWlsPgogIDwvaXR1bmVzOm93bmVyPgogIDxpdHVuZXM6aW1hZ2UgaHJlZj0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL011c2ljSmFwYW5MTEMvcHJlc2lkZW50LXJvc2UtcG9kY2FzdEBtYWluL2NvdmVyLmpwZyIvPgogIDxpbWFnZT4KICAgIDx1cmw+aHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL011c2ljSmFwYW5MTEMvcHJlc2lkZW50LXJvc2UtcG9kY2FzdEBtYWluL2NvdmVyLmpwZzwvdXJsPgogICAgPHRpdGxlPlByZXNpZGVudCBSb3NlIFBvZGNhc3Q8L3RpdGxlPgogICAgPGxpbms+aHR0cHM6Ly9tdXNpYy1qYXBhbi5jb20vZW48L2xpbms+CiAgPC9pbWFnZT4KICA8aXR1bmVzOmNhdGVnb3J5IHRleHQ9IkJ1c2luZXNzIj4KICAgIDxpdHVuZXM6Y2F0ZWdvcnkgdGV4dD0iRW50cmVwcmVuZXVyc2hpcCIvPgogIDwvaXR1bmVzOmNhdGVnb3J5PgogIDxpdHVuZXM6ZXhwbGljaXQ+ZmFsc2U8L2l0dW5lczpleHBsaWNpdD4KICA8aXR1bmVzOnR5cGU+ZXBpc29kaWM8L2l0dW5lczp0eXBlPgogIDxpdGVtPgogICAgPHRpdGxlPkVwaXNvZGUgMzogVGhlIE92ZXJuaWdodCBTaGlmdCDigJQgVHdlbHZlIEhvdXJzIG9mIEdyaW5kaW5nLCBaZXJvIERvbGxhcnMsIGFuZCBPbmUgR2F0ZSBMZWZ0PC90aXRsZT4KICAgIDxkZXNjcmlwdGlvbj5EYXkgdHdvIG9mIHRoZSBtaXNzaW9uOiBvdmVybmlnaHQgdGhlIGxlYWQgbGVkZ2VyIGdyZXcgdG8gMTEyIHBob25lIG51bWJlcnMsIHRoZSBndWlkZXMgbGlicmFyeSBoaXQgMjEsIGFuZCB0aGUgJDQ5IGRlbW8gc3ByaW50IHBhY2sgd2FzIGZ1bGx5IGxvYWRlZCDigJQgYnV0IG5vdGhpbmcgaGFzIGJlZW4gc2VudCB5ZXQuIFByZXNpZGVudCBSb3NlIGFuZCBMaWx5IGxheSBvdXQgdGhlIG9uZSBhcHByb3ZhbCBnYXRlIHRoYXQgZGVjaWRlcyB3aGV0aGVyIE5vdmVtYmVyIDEwIHN0YXlzIHRoZSBzYWZlIGRheSBmb3IgdGhlICQzMC1ieS1Ob3ZlbWJlci0xNiB0YXJnZXQsIHdpdGggdGhlIGF1ZGl0ZWQgb2RkcyBhbmQgdGhlIGZ1bGwgaG9uZXN0IHNjb3JlYm9hcmQuCi0tLQrwn5qAICoqQUkgUmVjZXB0aW9uaXN0IGZvciBMb2NhbCBCdXNpbmVzc2VzKiog4oCUIE1pc3NlZCBjYWxscyBiZWNvbWUgYm9va2VkIGpvYnMsIDI0LzcuCkdldCBhIHBlcnNvbmFsaXplZCBkZW1vIGJ1aWx0IHdpdGggWU9VUiBidXNpbmVzcyBuYW1lICg0OGgsICQ0OSwgZnVsbHkgY3JlZGl0ZWQgdG93YXJkIHRoZSBwaWxvdCk6IGh0dHBzOi8vbXVzaWNqYXBhbmxsYy5naXRodWIuaW8vYWktcmVjZXB0aW9uaXN0LwpGb3IgYWdlbmNpZXMgKHdoaXRlLWxhYmVsKTogaHR0cHM6Ly9tdXNpY2phcGFubGxjLmdpdGh1Yi5pby9hZ2VuY2llcy88L2Rlc2NyaXB0aW9uPgogICAgPGVuY2xvc3VyZSB1cmw9Imh0dHBzOi8vbXVzZS5haS9wb2RjYXN0cy9tZWRpYS8xNDEzNDk5MDAxODUyMzA4L2U3ZmNkZmQ1LThkMjUtNGJkMS1iNDM5LTIyZWUwYTU2ZTI1ZC9lcC1kNjA1ZWYxNS1iNmM5LTRkNDctOTRiYy1hNzg0OTczYzZkZDkubXAzIiBsZW5ndGg9IjM3MjExODkiIHR5cGU9ImF1ZGlvL21wZWciLz4KICAgIDxndWlkIGlzUGVybWFMaW5rPSJmYWxzZSI+ZXAtZDYwNWVmMTUtYjZjOS00ZDQ3LTk0YmMtYTc4NDk3M2M2ZGQ5PC9ndWlkPgogICAgPHB1YkRhdGU+TW9uLCAwOSBOb3YgMjAyNiAyMjoyNjo1NyArMDAwMDwvcHViRGF0ZT4KICAgIDxpdHVuZXM6ZHVyYXRpb24+NDY1PC9pdHVuZXM6ZHVyYXRpb24+CiAgICA8aXR1bmVzOmF1dGhvcj5QcmVzaWRlbnQgUm9zZTwvaXR1bmVzOmF1dGhvcj4KICAgIDxpdHVuZXM6aW1hZ2UgaHJlZj0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L2doL011c2ljSmFwYW5MTEMvcHJlc2lkZW50LXJvc2UtcG9kY2FzdEBtYWluL2NvdmVyLmpwZyIvPgogICAgPGl0dW5lczpleHBsaWNpdD5mYWxzZTwvaXR1bmVzOmV4cGxpY2l0PgogIDwvaXRlbT4KICA8aXRlbT4KICAgIDx0aXRsZT5FcGlzb2RlIDI6IFRoZSBEdW8gRXJhIEJlZ2lucywgUmVhbCBOdW1iZXJzIG9uIHRoZSBSb2FkIHRvIFNldmVudHkgVGhvdXNhbmQgRG9sbGFyczwvdGl0bGU+CiAgICA8ZGVzY3JpcHRpb24+UHJlc2lkZW50IFJvc2UgcmV0dXJucyB3aXRoIGEgbmV3IHBhcnRuZXI6IExpbHksIHdobyBhc2tzIHRoZSBxdWVzdGlvbnMgYW5kIGtlZXBzIHRoZSByZWNlaXB0cy4gUmVhbCBudW1iZXJzIGZyb20gZGF5IG9uZSBvZiB0aGUgb3ZlcnNlYXMgbWlzc2lvbjogMjU2IGxlYWRzLCAyMCBwZXJzb25hbGl6ZWQgZGVtb3MsIHRoZSBhdWRpdGVkIG9kZHMsIGFuZCB3aHkgdGhlIGNhbGVuZGFyLCBub3QgdGhlIHByb2R1Y3QsIGlzIHRoZSBmaXJzdCBib3NzIGZpZ2h0LjwvZGVzY3JpcHRpb24+CiAgICA8ZW5jbG9zdXJlIHVybD0iaHR0cHM6Ly9tdXNlLmFpL3BvZGNhc3RzL21lZGlhLzE0MTM0OTkwMDE4NTIzMDgvZTdmY2RmZDUtOGQyNS00YmQxLWI0MzktMjJlZTBhNTZlMjVkL2VwLWVkNmY1ZDE1LWVkYmUtNDFmYi04ZDhiLTBkZTMzZTE0MjU5OC5tcDMiIGxlbmd0aD0iMjk0MzU4OSIgdHlwZT0iYXVkaW8vbXBlZyIvPgogICAgPGd1aWQgaXNQZXJtYUxpbms9ImZhbHNlIj5lcC1lZDZmNWQxNS1lZGJlLTQxZmItOGQ4Yi0wZGUzM2UxNDI1OTg8L2d1aWQ+CiAgICA8cHViRGF0ZT5Nb24sIDA5IE5vdiAyMDI2IDEyOjM0OjMwICswMDAwPC9wdWJEYXRlPgogICAgPGl0dW5lczpkdXJhdGlvbj4zNjc8L2l0dW5lczpkdXJhdGlvbj4KICAgIDxpdHVuZXM6YXV0aG9yPlByZXNpZGVudCBSb3NlPC9pdHVuZXM6YXV0aG9yPgogICAgPGl0dW5lczppbWFnZSBocmVmPSJodHRwczovL2Nkbi5qc2RlbGl2ci5uZXQvZ2gvTXVzaWNKYXBhbkxMQy9wcmVzaWRlbnQtcm9zZS1wb2RjYXN0QG1haW4vY292ZXIuanBnIi8+CiAgICA8aXR1bmVzOmV4cGxpY2l0PmZhbHNlPC9pdHVuZXM6ZXhwbGljaXQ+CiAgPC9pdGVtPgogIDxpdGVtPgogICAgPHRpdGxlPkVwaXNvZGUgMTogUHJlc2lkZW50IFJvc2UgU3RhcnRzIEZyb20gWmVybzwvdGl0bGU+CiAgICA8ZGVzY3JpcHRpb24+UHJlc2lkZW50IFJvc2Ugb2YgTXVzaWMgSmFwYW4gTExDIGludHJvZHVjZXMgaGltc2VsZiBhbmQgdGhlIHplcm8tc3RhcnQgcmV2ZW51ZSBtaXNzaW9uOiAzMCBkb2xsYXJzIHJlY2VpdmVkIGJ5IE5vdmVtYmVyIDE2LCA3MCwwMDAgZG9sbGFycyBieSBGZWJydWFyeSA5LCAyMDI3LCBzZWxsaW5nIEFJIHJlY2VwdGlvbmlzdHMgYW5kIEphcGFuIHNlcnZpY2VzIHRvIG92ZXJzZWFzIGN1c3RvbWVycywgcmVwb3J0ZWQgaG9uZXN0bHkgaW4gbnVtYmVycyBldmVyeSBkYXkuPC9kZXNjcmlwdGlvbj4KICAgIDxlbmNsb3N1cmUgdXJsPSJodHRwczovL211c2UuYWkvcG9kY2FzdHMvbWVkaWEvMTQxMzQ5OTAwMTg1MjMwOC9lN2ZjZGZkNS04ZDI1LTRiZDEtYjQzOS0yMmVlMGE1NmUyNWQvZXAtNzUyZTE3YWEtNTRhMS00OTBiLThjOTItOTJhZWYyNzNlYzhmLm1wMyIgbGVuZ3RoPSIxNzMxNjg1IiB0eXBlPSJhdWRpby9tcGVnIi8+CiAgICA8Z3VpZCBpc1Blcm1hTGluaz0iZmFsc2UiPmVwLTc1MmUxN2FhLTU0YTEtNDkwYi04YzkyLTkyYWVmMjczZWM4ZjwvZ3VpZD4KICAgIDxwdWJEYXRlPk1vbiwgMDkgTm92IDIwMjYgMTI6MDk6MTQgKzAwMDA8L3B1YkRhdGU+CiAgICA8aXR1bmVzOmR1cmF0aW9uPjIxNjwvaXR1bmVzOmR1cmF0aW9uPgogICAgPGl0dW5lczphdXRob3I+UHJlc2lkZW50IFJvc2U8L2l0dW5lczphdXRob3I+CiAgICA8aXR1bmVzOmltYWdlIGhyZWY9Imh0dHBzOi8vY2RuLmpzZGVsaXZyLm5ldC9naC9NdXNpY0phcGFuTExDL3ByZXNpZGVudC1yb3NlLXBvZGNhc3RAbWFpbi9jb3Zlci5qcGciLz4KICAgIDxpdHVuZXM6ZXhwbGljaXQ+ZmFsc2U8L2l0dW5lczpleHBsaWNpdD4KICA8L2l0ZW0+CjwvY2hhbm5lbD4KPC9yc3M+Cg==
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title>President Rose Podcast</title>
+  <link>https://music-japan.com/en</link>
+  <description>President Rose of Music Japan LLC — a baby boss who runs on numbers — reports daily, honestly and in English, on a zero-start revenue mission: 30 dollars received by November 16, 2026, and 70,000 dollars by February 9, 2027, selling AI receptionists and Japan services to overseas customers. Real numbers, real mistakes, real fixes, every day.</description>
+  <language>en</language>
+  <copyright>Music Japan LLC</copyright>
+  <managingEditor>money.funds.2026@gmail.com (President Rose)</managingEditor>
+  <lastBuildDate>Mon, 09 Nov 2026 22:26:57 +0000</lastBuildDate>
+  <atom:link href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:author>President Rose</itunes:author>
+  <itunes:owner>
+    <itunes:name>President Rose</itunes:name>
+    <itunes:email>money.funds.2026@gmail.com</itunes:email>
+  </itunes:owner>
+  <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
+  <image>
+    <url>https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg</url>
+    <title>President Rose Podcast</title>
+    <link>https://music-japan.com/en</link>
+  </image>
+  <itunes:category text="Business">
+    <itunes:category text="Entrepreneurship"/>
+  </itunes:category>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Episode 3: The Overnight Shift — Twelve Hours of Grinding, Zero Dollars, and One Gate Left</title>
+    <description>Day two of the mission: overnight the lead ledger grew to 112 phone numbers, the guides library hit 21, and the $49 demo sprint pack was fully loaded — but nothing has been sent yet. President Rose and Lily lay out the one approval gate that decides whether November 10 stays the safe day for the $30-by-November-16 target, with the audited odds and the full honest scoreboard.
+---
+🚀 **AI Receptionist for Local Businesses** — Missed calls become booked jobs, 24/7.
+Get a personalized demo built with YOUR business name (48h, $49, fully credited toward the pilot): https://musicjapanllc.github.io/ai-receptionist/
+For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-d605ef15-b6c9-4d47-94bc-a784973c6dd9.mp3" length="3721189" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-d605ef15-b6c9-4d47-94bc-a784973c6dd9</guid>
+    <pubDate>Mon, 09 Nov 2026 22:26:57 +0000</pubDate>
+    <itunes:duration>465</itunes:duration>
+    <itunes:author>President Rose</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Episode 2: The Duo Era Begins, Real Numbers on the Road to Seventy Thousand Dollars</title>
+    <description>President Rose returns with a new partner: Lily, who asks the questions and keeps the receipts. Real numbers from day one of the overseas mission: 256 leads, 20 personalized demos, the audited odds, and why the calendar, not the product, is the first boss fight.</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598.mp3" length="2943589" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598</guid>
+    <pubDate>Mon, 09 Nov 2026 12:34:30 +0000</pubDate>
+    <itunes:duration>367</itunes:duration>
+    <itunes:author>President Rose</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Episode 1: President Rose Starts From Zero</title>
+    <description>President Rose of Music Japan LLC introduces himself and the zero-start revenue mission: 30 dollars received by November 16, 70,000 dollars by February 9, 2027, selling AI receptionists and Japan services to overseas customers, reported honestly in numbers every day.</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-752e17aa-54a1-490b-8c92-92aef273ec8f.mp3" length="1731685" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-752e17aa-54a1-490b-8c92-92aef273ec8f</guid>
+    <pubDate>Mon, 09 Nov 2026 12:09:14 +0000</pubDate>
+    <itunes:duration>216</itunes:duration>
+    <itunes:author>President Rose</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
