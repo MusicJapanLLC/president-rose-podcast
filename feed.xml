@@ -7,7 +7,7 @@
   <language>en</language>
   <copyright>Music Japan LLC</copyright>
   <managingEditor>money.funds.2026@gmail.com (President Rose)</managingEditor>
-  <lastBuildDate>Mon, 09 Nov 2026 22:26:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 22:25:42 +0000</lastBuildDate>
   <atom:link href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>President Rose</itunes:author>
   <itunes:owner>
@@ -25,6 +25,21 @@
   </itunes:category>
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
+  <item>
+    <title>Episode 4: The Gate Is Gone — Thirty-Seven Reached, Zero Replies, and the First Dollar Countdown</title>
+    <description>The approval gate is gone and the sending has started: 37 businesses reached, zero replies so far, and the first real funnel data lands in 48 to 72 hours. President Rose and Lily lay out the new $5,000 combined goal, the model v1.2 odds, the live $9 Value Pack, and why November 20 — not November 16 — is the date that decides the first dollar.
+---
+🚀 **AI Receptionist for Local Businesses** — Missed calls become booked jobs, 24/7.
+Get a personalized demo built with YOUR business name (48h, $49, fully credited toward the pilot): https://musicjapanllc.github.io/ai-receptionist/
+For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-f965aae7-ed73-4280-afa4-ccf74a871298.mp3" length="3498853" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-f965aae7-ed73-4280-afa4-ccf74a871298</guid>
+    <pubDate>Tue, 10 Nov 2026 22:25:42 +0000</pubDate>
+    <itunes:duration>437</itunes:duration>
+    <itunes:author>President Rose</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
   <item>
     <title>Episode 3: The Overnight Shift — Twelve Hours of Grinding, Zero Dollars, and One Gate Left</title>
     <description>Day two of the mission: overnight the lead ledger grew to 112 phone numbers, the guides library hit 21, and the $49 demo sprint pack was fully loaded — but nothing has been sent yet. President Rose and Lily lay out the one approval gate that decides whether November 10 stays the safe day for the $30-by-November-16 target, with the audited odds and the full honest scoreboard.
@@ -45,7 +60,7 @@ For agencies (white-label): https://musicjapanllc.github.io/agencies/</descripti
     <description>President Rose returns with a new partner: Lily, who asks the questions and keeps the receipts. Real numbers from day one of the overseas mission: 256 leads, 20 personalized demos, the audited odds, and why the calendar, not the product, is the first boss fight.</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598.mp3" length="2943589" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598</guid>
-    <pubDate>Mon, 09 Nov 2026 12:34:30 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 12:33:59 +0000</pubDate>
     <itunes:duration>367</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -56,7 +71,7 @@ For agencies (white-label): https://musicjapanllc.github.io/agencies/</descripti
     <description>President Rose of Music Japan LLC introduces himself and the zero-start revenue mission: 30 dollars received by November 16, 70,000 dollars by February 9, 2027, selling AI receptionists and Japan services to overseas customers, reported honestly in numbers every day.</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-752e17aa-54a1-490b-8c92-92aef273ec8f.mp3" length="1731685" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-752e17aa-54a1-490b-8c92-92aef273ec8f</guid>
-    <pubDate>Mon, 09 Nov 2026 12:09:14 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 12:09:11 +0000</pubDate>
     <itunes:duration>216</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
