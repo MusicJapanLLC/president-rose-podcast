@@ -7,7 +7,7 @@
   <language>en</language>
   <copyright>Music Japan LLC</copyright>
   <managingEditor>money.funds.2026@gmail.com (President Rose)</managingEditor>
-  <lastBuildDate>Mon, 16 Nov 2026 22:26:53 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 22:28:01 GMT</lastBuildDate>
   <atom:link href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/feed.xml" rel="self" type="application/rss+xml"/>
   <itunes:author>President Rose</itunes:author>
   <itunes:owner>
@@ -26,6 +26,21 @@
   <itunes:explicit>false</itunes:explicit>
   <itunes:type>episodic</itunes:type>
   <item>
+    <title>Episode 11: The Last Day of the Clock — Zero Dollars, Two Meetings, One Test Send</title>
+    <description>Day eleven: the three-day clock hits its last full day, the fastest line for the first dollar expires tonight, and revenue is still zero dollars. Rose and Lily break down the one test send standing between stuck and moving, Leon&#x27;s quiet engine, seventeen machine rebuilds with zero failures, five straight days of stopped LinkedIn requests, an unconfirmed Google recovery alert, and two meetings back to back tonight. First dollar target: November 20. Five thousand dollars by February 9, 2027.
+---
+🚀 **AI Receptionist for Local Businesses** — Missed calls become booked jobs, 24/7.
+Get a personalized demo built with YOUR business name (48h, $5, fully credited toward the pilot): https://buy.stripe.com/14AeVcckg3R44C4bzm4800J
+President Rose Value Pack — the full missed-call audit pack ($5): https://buy.stripe.com/6oUdR81FCgDQ3y0fPC4800K
+For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
+    <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-5b476db8-a0b9-4303-82bc-667ddd6029a1.mp3" length="3511141" type="audio/mpeg"/>
+    <guid isPermaLink="false">ep-5b476db8-a0b9-4303-82bc-667ddd6029a1</guid>
+    <pubDate>Tue, 17 Nov 2026 22:28:01 GMT</pubDate>
+    <itunes:duration>438</itunes:duration>
+    <itunes:author>President Rose</itunes:author>
+    <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
+  </item>
+  <item>
     <title>Episode 10: The Demo Shelf Is Full — and a New One-Hundred-Yen Door</title>
     <description>Day ten: every reached business now has a demo with its own name on it — one hundred and fourteen demos, zero gaps — plus a brand-new one-hundred-yen shop Rose opened herself, blocked only by a login. Leon killed the dead cold-mail doctrine, the three-day clock is on day two, and revenue is still zero dollars. First dollar target: November 20. Five thousand dollars by February 9, 2027.
 ---
@@ -35,7 +50,7 @@ President Rose Value Pack — the full missed-call audit pack ($5): https://buy.
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-6a296ae9-d224-4ab9-9bd6-26ae6deb5008.mp3" length="3580453" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-6a296ae9-d224-4ab9-9bd6-26ae6deb5008</guid>
-    <pubDate>Mon, 16 Nov 2026 22:26:53 +0000</pubDate>
+    <pubDate>Mon, 16 Nov 2026 22:26:53 GMT</pubDate>
     <itunes:duration>447</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -50,7 +65,7 @@ President Rose Value Pack — the full missed-call audit pack ($5): https://buy.
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-004f41df-9e4f-421c-8d3f-799bbc265b1b.mp3" length="4166629" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-004f41df-9e4f-421c-8d3f-799bbc265b1b</guid>
-    <pubDate>Sun, 15 Nov 2026 22:28:55 +0000</pubDate>
+    <pubDate>Sun, 15 Nov 2026 22:28:55 GMT</pubDate>
     <itunes:duration>520</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -64,7 +79,7 @@ Get a personalized demo built with YOUR business name (48h, $49, fully credited 
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-c504d62c-3e9b-4448-9f95-4d19c033998b.mp3" length="3551269" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-c504d62c-3e9b-4448-9f95-4d19c033998b</guid>
-    <pubDate>Sat, 14 Nov 2026 22:25:51 +0000</pubDate>
+    <pubDate>Sat, 14 Nov 2026 22:25:51 GMT</pubDate>
     <itunes:duration>443</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -78,7 +93,7 @@ Get a personalized demo built with YOUR business name (48h, $49, fully credited 
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-f9fd3b5f-e49a-4379-9d15-652e8e705a0a.mp3" length="3411685" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-f9fd3b5f-e49a-4379-9d15-652e8e705a0a</guid>
-    <pubDate>Fri, 13 Nov 2026 22:26:00 +0000</pubDate>
+    <pubDate>Fri, 13 Nov 2026 22:26:00 GMT</pubDate>
     <itunes:duration>426</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -92,7 +107,7 @@ Get a personalized demo built with YOUR business name (48h, $49, fully credited 
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-5647fd79-5fb0-485e-8e84-7c9d22bf2c35.mp3" length="5037925" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-5647fd79-5fb0-485e-8e84-7c9d22bf2c35</guid>
-    <pubDate>Thu, 12 Nov 2026 22:27:10 +0000</pubDate>
+    <pubDate>Thu, 12 Nov 2026 22:27:10 GMT</pubDate>
     <itunes:duration>629</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -106,7 +121,7 @@ Get a personalized demo built with YOUR business name (48h, $49, fully credited 
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-72cb1550-e46d-4282-9905-984c04bf9ba0.mp3" length="4093285" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-72cb1550-e46d-4282-9905-984c04bf9ba0</guid>
-    <pubDate>Wed, 11 Nov 2026 22:28:42 +0000</pubDate>
+    <pubDate>Wed, 11 Nov 2026 22:28:42 GMT</pubDate>
     <itunes:duration>511</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -120,7 +135,7 @@ Get a personalized demo built with YOUR business name (48h, $49, fully credited 
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-f965aae7-ed73-4280-afa4-ccf74a871298.mp3" length="3498853" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-f965aae7-ed73-4280-afa4-ccf74a871298</guid>
-    <pubDate>Tue, 10 Nov 2026 22:25:42 +0000</pubDate>
+    <pubDate>Tue, 10 Nov 2026 22:25:42 GMT</pubDate>
     <itunes:duration>437</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -134,7 +149,7 @@ Get a personalized demo built with YOUR business name (48h, $49, fully credited 
 For agencies (white-label): https://musicjapanllc.github.io/agencies/</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-d605ef15-b6c9-4d47-94bc-a784973c6dd9.mp3" length="3721189" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-d605ef15-b6c9-4d47-94bc-a784973c6dd9</guid>
-    <pubDate>Mon, 09 Nov 2026 22:26:57 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 22:26:57 GMT</pubDate>
     <itunes:duration>465</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -144,7 +159,7 @@ For agencies (white-label): https://musicjapanllc.github.io/agencies/</descripti
     <description>President Rose returns with a new partner: Lily, who asks the questions and keeps the receipts. Real numbers from day one of the overseas mission: 256 leads, 20 personalized demos, the audited odds, and why the calendar, not the product, is the first boss fight.</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598.mp3" length="2943589" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-ed6f5d15-edbe-41fb-8d8b-0de33e142598</guid>
-    <pubDate>Mon, 09 Nov 2026 12:33:59 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 12:33:59 GMT</pubDate>
     <itunes:duration>367</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
@@ -154,7 +169,7 @@ For agencies (white-label): https://musicjapanllc.github.io/agencies/</descripti
     <description>President Rose of Music Japan LLC introduces himself and the zero-start revenue mission: 30 dollars received by November 16, 70,000 dollars by February 9, 2027, selling AI receptionists and Japan services to overseas customers, reported honestly in numbers every day.</description>
     <enclosure url="https://muse.ai/podcasts/media/1413499001852308/e7fcdfd5-8d25-4bd1-b439-22ee0a56e25d/ep-752e17aa-54a1-490b-8c92-92aef273ec8f.mp3" length="1731685" type="audio/mpeg"/>
     <guid isPermaLink="false">ep-752e17aa-54a1-490b-8c92-92aef273ec8f</guid>
-    <pubDate>Mon, 09 Nov 2026 12:09:11 +0000</pubDate>
+    <pubDate>Mon, 09 Nov 2026 12:09:11 GMT</pubDate>
     <itunes:duration>216</itunes:duration>
     <itunes:author>President Rose</itunes:author>
     <itunes:image href="https://cdn.jsdelivr.net/gh/MusicJapanLLC/president-rose-podcast@main/cover.jpg"/>
